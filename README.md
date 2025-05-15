@@ -52,6 +52,7 @@ Me chamo Gabriel Pujol Amaral Gurgel Velosa, tenho 18 anos e sou natural de São
 />
 
 <br/>
+<br/>
 
 ---
 
@@ -77,14 +78,6 @@ Me chamo Gabriel Pujol Amaral Gurgel Velosa, tenho 18 anos e sou natural de São
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 ---
 
