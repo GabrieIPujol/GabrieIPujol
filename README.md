@@ -1,9 +1,18 @@
+<!-- APRESENTAÇÃO -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <h1>👨🏻‍💻 Gabriel Pujol</h1>
+  <em>Estudante</em>
+  <p style="max-width: 600px; margin: 0 auto;">
+    Me chamo Gabriel Pujol Amaral Gurgel Velosa, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet no Senac.
+  </p>
+</div>
 
+<hr/>
 
-<!-- Container Principal -->
+<!-- CONTAINER COM FLEXBOX -->
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Estatísticas do GitHub -->
+  <!-- ESTATÍSTICAS -->
   <div style="flex: 1; min-width: 300px;">
     <h3>📊 Estatísticas</h3>
     <img 
@@ -21,9 +30,9 @@
 
 ---
 
-  <!-- Tecnologias -->
+  <!-- TECNOLOGIAS -->
   <div style="flex: 1; min-width: 300px;">
-    <h3>🧠 Tecnologias</h3>
+    <h3>🤖 Tecnologias</h3>
     <img 
       alt="HTML" 
       width="30px" 
@@ -58,7 +67,7 @@
 
 ---
 
-  <!-- Contato -->
+  <!-- CONTATO -->
   <div style="flex: 1; min-width: 300px;">
     <h3>📞 Contato</h3>
     <p>
