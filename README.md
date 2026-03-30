@@ -3,13 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Pujol+Amaral+Gurgel+Velosa;I+study+internt+systems+at+Senac+👨🏻‍💻;I+hope+you+enjoy+my+profile!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-</br>
-<img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrieIPujol&theme=github_dark" style="width:100%"/>
-<a href="https://github.com/GabrieIPujol">
-    <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
-</a>
-</br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrieIPujol&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
