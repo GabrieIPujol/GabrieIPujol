@@ -17,7 +17,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
-              "background": "#000000"
+              "theme": "night-green"
             }
       - name: Commit & Push
         run: |
